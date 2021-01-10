@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Sara Tuma 🧘‍♀️ 🇦🇴 
 
-I'm Angolan, and Student at Universidade Católica de Angola.
+I'm Angolan, and Student at Católica University Of Angola.
 
 I'm just starting a career as a web developer. 💻
 
