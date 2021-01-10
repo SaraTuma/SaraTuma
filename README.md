@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Sara Tuma 🧘‍♀️ 🇦🇴 
 
-I'm Angolan, and Student in Universidade Católica de Angola.
+I'm Angolan, and Student at Universidade Católica de Angola.
 
 I'm just starting a career as a web developer. 💻
 
@@ -25,5 +25,8 @@ I'm passionate about learning.
 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and NodeJS.
 
-### Practice leads to perfection 👩🏾‍💻 
-##Girls Can Code 👩🏾‍💻 💖 
+### Practice leads to perfection
+
+##Girls Can Code  
+
+👩🏾‍💻 💖
