@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-# My full name is Sara David Tuma 💖
-# I'm Angolan 🇦🇴
+### My full name is Sara David Tuma 💖
+### I'm Angolan 🇦🇴
 
 
 ### About
