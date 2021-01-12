@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 
-
-
-## I'm a Student at Católica University Of Angola.  🧘‍♀️ 🇦🇴
-
+# My full name is Sara David Tuma 💖
+# I'm Angolan 🇦🇴
 
 
 ### About
 
+-  **University:** Católica Of Angola  🧘‍♀️ 
+-  **Course:** Computer Science and engineering 💻
 -  **Learning :** Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  **Fact :** Practice leads to perfection. :heart: 💻
+-  **Fact :** Practice leads to perfection. :heart:
 
 
 ## Languages and Tools 
