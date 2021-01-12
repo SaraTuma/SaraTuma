@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-### My name is Sara Tuma 👩🏾‍💻
 
-I'm a Student at Católica University Of Angola.  🧘‍♀️ 🇦🇴
+
+## I'm a Student at Católica University Of Angola.  🧘‍♀️ 🇦🇴
 
 
 
