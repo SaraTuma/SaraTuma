@@ -9,7 +9,7 @@
 
 -  **University:** Católica Of Angola  🧘‍♀️ 
 -  **Course:** Computer Science and engineering 💻
--  **Learning :** Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-  **Learning :** Java, C, Javascript and Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  **Fact :** Practice leads to perfection. :heart:
 
 
