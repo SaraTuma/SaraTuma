@@ -10,6 +10,7 @@
 -  **University:** Católica Of Angola  🧘‍♀️ 
 -  **Course:** Engineer Student 💻
 -  **Learning :** Java, C, Javascript and Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-  **Native language:** Portuguese but i'm learning English :face:
 -  **Fact :** Practice leads to perfection. :heart:
 
 
