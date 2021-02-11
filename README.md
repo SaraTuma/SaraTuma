@@ -32,6 +32,6 @@
   
   ### Follow me, at:
   
-  **Linkedin :** [Sara Tuma](https://www.linkedin.com/in/sara-david-tuma-9186911ba) 
-  **Facebook :** [Sara Tuma](https://web.facebook.com/allexiiany.magelafoufy) 
+ - **Linkedin :** [Sara Tuma](https://www.linkedin.com/in/sara-david-tuma-9186911ba) 
+ - **Facebook :** [Sara Tuma](https://web.facebook.com/allexiiany.magelafoufy) 
   **Gmail :** [saradavidtuma07@gmail.com] 💖
