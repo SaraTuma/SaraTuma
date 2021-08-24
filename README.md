@@ -1,38 +1,23 @@
-### Hi there 👋
+<p align="center"> My full name is Sara David Tuma 💖 </p>
 
-
-### My full name is Sara David Tuma 💖
-### I'm Angolan 🇦🇴
-
-
-### About
-
--  **University:** Católica Of Angola  🧘‍♀️ 
--  **Course:** Engineer Student 💻
--  **Learning :** Java, C, Javascript and Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  **Native language:** Portuguese but i'm learning English :face:
--  **Fact :** Practice leads to perfection. :heart:
-
-
-## Languages and Tools 
-
-<p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
+ <div>
+  <a href="https://github.com/SaraTuma">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaraTuma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraTuma&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div align="center" style="display: inline_bloc;"><br>
+  <img align="center" alt="Sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" width="100" alt="Sara-gif" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+</div>
   
+  <br>
  
-</p>
+<div align="center"> 
+  <a href = "mailto:saradavidtuma07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sara-david-tuma-9186911ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
-
-
-⭐️ From
-  Github : [Sara Tuma](https://github.com/SaraTuma) 
-  
-  ### Follow me, at:
-  
- - **Linkedin :** [Sara Tuma](https://www.linkedin.com/in/sara-david-tuma-9186911ba) 
- - **Facebook :** [Sara Tuma](https://web.facebook.com/allexiiany.magelafoufy) 
- - **Gmail :** [saradavidtuma07@gmail.com] 💖
+ 
+</div>
