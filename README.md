@@ -1,4 +1,4 @@
-<p align="center"> My full name is Sara David Tuma 💖 </p>
+<p align="center"> Bacharel em Engenharia Informàtica na UCAN 💖 </p>
  
   <br>
 
