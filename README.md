@@ -1,5 +1,5 @@
 <p align="center"> Bacharel em Engenharia Informàtica na UCAN 💖 </p>
- 
+<p align="center"> Trabalhando actualmente Como Consultora na área de Serviços financeiros (FS) na Deloitte 💖</p>
   <br>
 
  <div>
