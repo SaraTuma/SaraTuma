@@ -1,5 +1,5 @@
 <p align="center"> Bacharel em Engenharia Informàtica na UCAN 💖 </p>
-<p align="center"> Trabalhando actualmente em Desenvolvimento Front-end e UI Design</p>
+<p align="center"> Trabalhando actualmente em Desenvolvimento Web</p>
   <br>
 
  <div>
